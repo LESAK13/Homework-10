@@ -1,0 +1,21 @@
+body {
+    background-color: silver;
+  }
+
+  h2 {
+      color: white;
+  }
+
+  h3 {
+      color: white;
+  }
+
+  .jumbotron {
+    background-color: black;
+    color: white;
+  }
+
+  .card{
+      background-color: black;
+      color: black
+  }
